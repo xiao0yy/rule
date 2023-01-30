@@ -109,17 +109,17 @@ payload:
   - DOMAIN-SUFFIX,emby.aiyowei.ml
 
   # > 流媒体polo服务器
-  DOMAIN-SUFFIX,poloemby.xyz
-  DOMAIN-SUFFIX,pololine.ml
+  - DOMAIN-SUFFIX,poloemby.xyz
+  - DOMAIN-SUFFIX,pololine.ml
 
   # > 流媒体MisakaF服务器
-  DOMAIN-SUFFIX,misakaf.org
+  - DOMAIN-SUFFIX,misakaf.org
 
   # > 流媒体GfwEmby服务器
-  DOMAIN-SUFFIX,gfwemby.org
+  - DOMAIN-SUFFIX,gfwemby.org
 
   # > 流媒体垃圾影音服务器
-  DOMAIN-SUFFIX,loseremby.org
+  - DOMAIN-SUFFIX,loseremby.org
 
   # > 流媒体Cc服务器
   - DOMAIN-SUFFIX,cc.ccemby.tk
