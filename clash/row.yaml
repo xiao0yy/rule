@@ -8,6 +8,7 @@ payload:
   - DOMAIN-KEYWORD,home-assistant
   - DOMAIN-KEYWORD,homeassistant
   - DOMAIN-KEYWORD,apkpure
+  - DOMAIN-KEYWORD,tinymediamanager
   - DOMAIN-SUFFIX,sdkman.io
   - DOMAIN-SUFFIX,sdi-tool.org
   - DOMAIN-SUFFIX,synocommunity.com
