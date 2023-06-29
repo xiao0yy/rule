@@ -7,16 +7,6 @@ payload:
   - DOMAIN-SUFFIX,michaelkors.com
   - DOMAIN-SUFFIX,macys.com
   - DOMAIN-SUFFIX,gucci.com
-  
-  # OpenAi
-  - DOMAIN,cdn.auth0.com
-  - DOMAIN,challenges.cloudflare.com
-  - DOMAIN,openaiapi-site.azureedge.net
-  - DOMAIN-SUFFIX,ai.com
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,identrust.com
-  - DOMAIN-SUFFIX,hcaptcha.com
-  - DOMAIN-SUFFIX,akamaized.com
 
   # Others
   - DOMAIN-SUFFIX,thetvdb.com
