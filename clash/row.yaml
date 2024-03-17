@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,graffletopia.com
   - DOMAIN-SUFFIX,maxst.icons8.com
   - DOMAIN-SUFFIX,redditstatic.com
+  - DOMAIN-SUFFIX,setapp.com
 
   # Torrent
   - DOMAIN-KEYWORD,1337x
