@@ -11,3 +11,4 @@ payload:
   # Others
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-KEYWORD,us-central
+  - DOMAIN,metadata.provider.plex.tv
