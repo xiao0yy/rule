@@ -1,5 +1,6 @@
 payload:
   # Others
+  - DOMAIN-KEYWORD,dangsfly
   - DOMAIN-KEYWORD,keeflys
   - DOMAIN-KEYWORD,sonarr
   - DOMAIN-KEYWORD,radarr
