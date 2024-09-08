@@ -21,8 +21,6 @@ payload:
   - DOMAIN-SUFFIX,msauth.net
   - DOMAIN-SUFFIX,aspnetcdn.com
   - DOMAIN-SUFFIX,herokuapp.com
-  - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,subtitle.best
   - DOMAIN-SUFFIX,a4k.net
   - DOMAIN-SUFFIX,opensubtitles.org
@@ -31,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,maxst.icons8.com
   - DOMAIN-SUFFIX,redditstatic.com
   - DOMAIN-SUFFIX,setapp.com
+  - DOMAIN-SUFFIX,plex.tv
 
   # Torrent
   - DOMAIN-KEYWORD,1337x
