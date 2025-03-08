@@ -10,4 +10,5 @@ payload:
 
   # Others
   - DOMAIN-SUFFIX,thetvdb.com
+  - DOMAIN-SUFFIX,polymarket.com
   - DOMAIN-KEYWORD,us-central
