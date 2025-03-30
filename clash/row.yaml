@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,setapp.com
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,polymarket.com
+  - DOMAIN-SUFFIX,xmsl.org
 
   # Torrent
   - DOMAIN-KEYWORD,1337x
