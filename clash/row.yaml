@@ -31,3 +31,4 @@ payload:
   - DOMAIN-SUFFIX,setapp.com
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,polymarket.com
+  - DOMAIN-SUFFIX,crates.io
