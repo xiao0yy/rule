@@ -32,3 +32,4 @@ payload:
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,polymarket.com
   - DOMAIN-SUFFIX,crates.io
+  - DOMAIN-SUFFIX,cachix.org
