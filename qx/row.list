@@ -31,3 +31,6 @@ DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,cachix.org
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,pypi.org
